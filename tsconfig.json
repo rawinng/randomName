@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "module": "es6",
+        "moduleResolution": "Node",
+        "sourceMap": true,
+        "plugins": [
+            { "name": "typescript-tslint-plugin" }
+          ]
+    }
+}
